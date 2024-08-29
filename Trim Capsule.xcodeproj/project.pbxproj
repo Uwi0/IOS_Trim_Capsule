@@ -11,6 +11,7 @@
 		FBC504502C7FC0B800BC5E37 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC5044F2C7FC0B800BC5E37 /* ContentView.swift */; };
 		FBC504522C7FC0B900BC5E37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBC504512C7FC0B900BC5E37 /* Assets.xcassets */; };
 		FBC504562C7FC0B900BC5E37 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBC504552C7FC0B900BC5E37 /* Preview Assets.xcassets */; };
+		FBC5045D2C7FC0E600BC5E37 /* TrimCapsuleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC5045C2C7FC0E600BC5E37 /* TrimCapsuleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FBC504512C7FC0B900BC5E37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBC504532C7FC0B900BC5E37 /* Trim_Capsule.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Trim_Capsule.entitlements; sourceTree = "<group>"; };
 		FBC504552C7FC0B900BC5E37 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FBC5045C2C7FC0E600BC5E37 /* TrimCapsuleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrimCapsuleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FBC504512C7FC0B900BC5E37 /* Assets.xcassets */,
 				FBC504532C7FC0B900BC5E37 /* Trim_Capsule.entitlements */,
 				FBC504542C7FC0B900BC5E37 /* Preview Content */,
+				FBC5045C2C7FC0E600BC5E37 /* TrimCapsuleView.swift */,
 			);
 			path = "Trim Capsule";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBC5045D2C7FC0E600BC5E37 /* TrimCapsuleView.swift in Sources */,
 				FBC504502C7FC0B800BC5E37 /* ContentView.swift in Sources */,
 				FBC5044E2C7FC0B800BC5E37 /* Trim_CapsuleApp.swift in Sources */,
 			);
